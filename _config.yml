@@ -1,8 +1,8 @@
-title: "solvaholic"
+title: "solvaholic-test"
 logo: /assets/img/my_avatar.jpeg
 author: "@solvaholic"
 author_url_keybase: "https://keybase.io/solvaholic"
-repository: solvaholic/solvaholic.github.io
+repository: solvaholic/refactored-octo-guide
 description:
 google_analytics:
 show_downloads: true
